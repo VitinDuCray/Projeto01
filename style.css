@@ -9,7 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url(/assets/background.jpg);
+    background-image: url(assets/background.jpg);
     background-size: cover;
     color: #000000;
     font-family: Arial, Helvetica, sans-serif;
@@ -20,7 +20,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url(/assets/card.jpg);
+    background-image: url(assets/card.jpg);
     background-size: cover;
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.705);
     transform: rotate(11deg);
@@ -61,4 +61,5 @@ body {
 .contactArea img {
     height: 20px;
     width: 20px;
+
 }
